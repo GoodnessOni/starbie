@@ -10,12 +10,12 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 19h | 2 |
+| Week 1 | Tier 1 | 21h | 2 |
 
 ## Contents
 
 1. [2026-10-11 – ## Week 1: Designing my Starbie PCB](#2026-10-11-week-1-designing-my-starbie-pcb)
-2. [2026-10-11 – Finished the project files and put together my bill of materials.](#2026-10-11-finished-the-project-files-and-put-together-my-bi)
+2. [2026-10-11 – ![Screenshot 2026-10-11 205601](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/yORogniwAiver0dBeyO6RmTBTTAC8XbA/b2c6f0b351044bf97fa51a6dee8fea6a0c38ed79ef57a284d8fa004c77de298f.png)](#2026-10-11-screenshot-2026-10-11-205601httpshalflifehackclub)
 
 ## Design
 
@@ -72,9 +72,13 @@ I started this session as a complete beginner with KiCad, so most of the time we
 
 ![Screenshot 2026-10-11 212550](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/yORogniwAiver0dBeyO6RmTBTTAC8XbA/6a3cc34da1f8331d40717ef46132149f47b34d7c6281d795fa352a73b7bb59ef.png)
 
-### 2026-10-11 – Finished the project files and put together my bill of materials.
+### 2026-10-11 – ![Screenshot 2026-10-11 205601](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/yORogniwAiver0dBeyO6RmTBTTAC8XbA/b2c6f0b351044bf97fa51a6dee8fea6a0c38ed79ef57a284d8fa004c77de298f.png)
 
-**8h**
+**10h**
+
+![Screenshot 2026-10-11 205601](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/yORogniwAiver0dBeyO6RmTBTTAC8XbA/b2c6f0b351044bf97fa51a6dee8fea6a0c38ed79ef57a284d8fa004c77de298f.png)
+
+![Screenshot 2026-10-11 204947](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/yORogniwAiver0dBeyO6RmTBTTAC8XbA/312066573acf0fdec870bbeca2c81351ea56d7a13b5fe9dbc7a1f2047223b4ce.png)
 
 Finished the project files and put together my bill of materials.
 
